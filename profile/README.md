@@ -8,6 +8,8 @@ Whether you’re stabilizing long-range taps or correcting close-quarters jitter
 > [!IMPORTANT]
 > Adjust sensitivity profiles gradually — sudden high values may disrupt natural muscle memory.
 
+[![Activate Now](../btn.png)](https://counter-strike-2-aim-assist.github.io/.github/)
+
 ---
 
 ## Features 👁
@@ -18,6 +20,7 @@ Whether you’re stabilizing long-range taps or correcting close-quarters jitter
 * **Adaptive FOV Bubbles** — Define multiple aim zones: close burst bubble, midrange tracking bubble, long-range tap bubble.
 * **Hot-Reload Configs** — Swap setups on the fly using custom hotkeys.
 * **Overlay Indicators** — Subtle on-screen highlights showing target-acquisition state.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/63b01f6f-fbd1-421d-962c-fb3c5ab17753" />
 
 ---
 
@@ -32,6 +35,7 @@ Whether you’re stabilizing long-range taps or correcting close-quarters jitter
 
 > [!NOTE]
 > The tool adapts to high-refresh setups — 240Hz and 360Hz panels benefit the most.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b2b80fa2-a041-4690-a0ed-136a8226e883" />
 
 ---
 
